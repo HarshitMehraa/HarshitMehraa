@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋Hello, I'm Harshit Mehra!
 
-<!--
-**HarshitMehraa/HarshitMehraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Intelligence Analyst.
 
-Here are some ideas to get you started:
+I’m passionate about transforming Data into insights that help organization make better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-mehra-42aa44213/)
+
+## 💻 Tech Stack:
+![Excel](https://img.shields.io/badge/Excel-%230072C6.svg?style=plastic&logo=Excel&logoColor=white) 
+![VBA](https://img.shields.io/badge/VBA-3670A0?style=plastic&logo=VBA&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=PowerbI&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white)
