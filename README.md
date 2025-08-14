@@ -4,6 +4,11 @@ Business Intelligence Analyst.
 
 I’m passionate about transforming Data into insights that help organization make better business decisions.
 
+Here, you'll find:
+
+- 🛠️ Projects I've built  
+- 📚 Things I’ve learned while working.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-mehra-42aa44213/)
 
