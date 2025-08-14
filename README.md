@@ -1,7 +1,5 @@
 # 👋Hello, I'm Harshit Mehra!
 
-Business Intelligence Analyst.
-
 I’m passionate about transforming Data into insights that help organization make better business decisions.
 
 Here, you'll find:
