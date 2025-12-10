@@ -1,6 +1,6 @@
 # 👋Hello, I'm Harshit Mehra!
 
-I’m passionate about transforming Data into insights that help organization make better business decisions.
+I’m passionate about transforming the data into insights that helps organization to make better business decisions.
 
 Here, you'll find:
 
