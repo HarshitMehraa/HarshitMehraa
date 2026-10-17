@@ -15,3 +15,4 @@ Here, you'll find:
 ![VBA](https://img.shields.io/badge/VBA-3670A0?style=plastic&logo=VBA&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=PowerbI&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
